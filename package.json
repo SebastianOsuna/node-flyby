@@ -1,0 +1,16 @@
+{
+  "name": "flyby",
+  "version": "1.0.0",
+  "description": "Server resource monitoring",
+  "main": "index.js",
+  "keywords": [
+    "monitoring",
+    "server",
+    "flyby"
+  ],
+  "author": "Sebastian Osuna <jsebastianosuna@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "*"
+  }
+}
